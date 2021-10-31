@@ -1,6 +1,12 @@
 # Change Log
-> High-level breakdown of what was changed
-## HTML
+
+> A summary of changes made.
+
+---
+
+## 10/30/21 #EP | Did my first review of the code. There is some more work to do, but overall things are at a good place.
+
+### HTML
 
 - Overall
   - Added commentes based on Sections with START and END
@@ -26,7 +32,7 @@
   - Changed div to footer
   - Removed class
 
-## CSS
+### CSS
 
 - Overal
   - Organized CSS based on order within HTML and by associated element

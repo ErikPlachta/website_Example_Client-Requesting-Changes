@@ -17,7 +17,7 @@
 
 > This is [Erik Plachta](https://www.github.com/erikplachta)'s submission for my first Coding Assignment **Challenge 1: Code Refactor**. All content has been reviewed and updated.
 
-> The update dcode has been [published as a GitHub website](https://erikplachta.github.io/C01/).
+> My updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/).
 
 > I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference.
 

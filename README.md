@@ -17,9 +17,9 @@
 
 > This is [Erik Plachta](https://www.github.com/erikplachta)'s submission for my first Coding Assignment **Challenge 1: Code Refactor**. All content has been reviewed and updated.
 
-> The update dcode has been [published as a GitHub website](https://erikplachta.github.io/C01/)
+> The update dcode has been [published as a GitHub website](https://erikplachta.github.io/C01/).
 
-> I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference. 
+> I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference.
 
 ---
 <!-- INDEX START -->
@@ -69,6 +69,6 @@
 ## Resources & Reference
 
 The original content was provided by @[Xandromus](https://github.com/Xandromus) on the repo [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram).
-> I've saved and included the original content within the folder originals in the root of this repo for easy awareness and to ensure if it's accuracy to my work.
+> I've saved and included the original content within the folder originals in the root of this repo for easy awareness and to ensure it's accuracy to my work.
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)

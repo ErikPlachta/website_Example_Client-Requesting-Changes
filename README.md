@@ -39,12 +39,12 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria
 
-:white_check_mark: GIVEN a webpage meets accessibility standards
-:white_check_mark: WHEN I view the source code :point_right: THEN I find semantic HTML elements
-:white_check_mark: WHEN I view the structure of the HTML elements :point_right: THEN I find that the elements  follow a logical structure independent of styling and positioning
-:white_check_mark: WHEN I view the image elements :point_right: THEN I find accessible alt attributes
-:white_check_mark: WHEN I view the heading attributes :point_right: THEN they fall in sequential order
-:white_check_mark: WHEN I view the title element :point_right: THEN I find a concise, descriptive title
+- :white_check_mark: GIVEN a webpage meets accessibility standards
+- :white_check_mark: WHEN I view the source code :point_right: THEN I find semantic HTML elements
+- :white_check_mark: WHEN I view the structure of the HTML elements :point_right: THEN I find that the elements  follow a logical structure independent of styling and positioning
+- :white_check_mark: WHEN I view the image elements :point_right: THEN I find accessible alt attributes
+- :white_check_mark: WHEN I view the heading attributes :point_right: THEN they fall in sequential order
+- :white_check_mark: WHEN I view the title element :point_right: THEN I find a concise, descriptive title
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)
 

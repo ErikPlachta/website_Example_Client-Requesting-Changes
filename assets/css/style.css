@@ -1,4 +1,4 @@
-/* UNIVERSAL ELEMENT STYLING  -----------------------------*/
+/* UNIVERSAL ELEMENT STARTS  -----------------------------*/
 
 * { 
     box-sizing: border-box;
@@ -18,15 +18,15 @@ a {
 p {
     font-size: 16px;
 }
+/*UNIVERSAL ELEMENT ENDS */
 
-/* HEADER  ----------------------------------------*/
+/* HEADER STARTS  ----------------------------------------*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
 
 header nav {
     padding-top: 15px;
@@ -54,9 +54,11 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* HEADER ENDS */
 
-/* HERO  ----------------------------------------*/
+/* HERO STARTS  ----------------------------------------*/
 
+/* The section */
 .hero {
     height: 800px;
     width: 100%;
@@ -65,16 +67,18 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
+/* HERO ENDS */
 
-/* CONTENT    ----------------------------------------*/
+/* CONTENT STARTS  ----------------------------------------*/
 
+/* The section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Class */
+/* The articles */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing
@@ -87,7 +91,7 @@ header nav ul li {
     color: #ffffff;
 }
 
-/* Images */
+/* Article Images */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img 
@@ -95,7 +99,20 @@ header nav ul li {
     max-height: 200px;
 }
 
-/* Header 2 */
+/* IMG pushed left */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* IMG pushed right */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+
+/* Article titles */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2
@@ -104,22 +121,14 @@ header nav ul li {
     font-size: 36px;
 }
 
-/* CONTENT IMG Styling */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* CONTENT IMG Styling */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/*END of CONTENT*/
 
 
-/* BENEFITS   ----------------------------------------*/
+/*CONTENT END */
+
+
+/* BENEFITS START  ----------------------------------------*/
+
+/* The section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,6 +140,7 @@ header nav ul li {
     background-color: #2589bd;
 }
 
+/* The articles */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost
@@ -139,6 +149,7 @@ header nav ul li {
     color: #ffffff;
 }
 
+/* Article titles */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3
@@ -147,6 +158,7 @@ header nav ul li {
     text-align: center;
 }
 
+/* Article Images */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img
@@ -155,17 +167,18 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/*END of BENEFIT*/
+/* BENEFITS END */
 
-/* FOOTER ------------------------------------*/
+/* FOOTER START ------------------------------------*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
+/* FOOTER END */

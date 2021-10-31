@@ -4,7 +4,7 @@
 > [![Twitter](https://img.shields.io/badge/-@erikplachta-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erikplachta)](https://twitter.com/erikplachta)
 [![Linkedin](https://img.shields.io/badge/-linkedin.com/in/erikplachta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/erikplachta/)](https://www.linkedin.com/in/erikplachta/)
 > [![Medium](https://img.shields.io/badge/-blog.erikplachta.com-000000?style=flat&labelColor=000000&logo=Medium&link=http://blog.erikplachta.com/)](http://blog.erikplachta.com/)
-<!-- > [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/erikplachta)](https://ko-fi.com/erikplachta)-->
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/erikplachta)](https://www.buymeacoffee.com/erikplachta)
 <!-- HEADER END -->
 
 ---

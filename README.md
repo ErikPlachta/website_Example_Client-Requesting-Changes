@@ -6,7 +6,16 @@
 > [![Medium](https://img.shields.io/badge/-blog.erikplachta.com-000000?style=flat&labelColor=000000&logo=Medium&link=http://blog.erikplachta.com/)](http://blog.erikplachta.com/)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://www.buymeacoffee.com/erikplachta)](https://www.buymeacoffee.com/erikplachta)
 <!-- HEADER END -->
+---
+<!-- OUTLINE START -->
+## Outline
 
+- [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
+  - [About](#about)
+  - [The Assignment](#the-assignment)
+  - [Mock-Up](#mock-up)
+  - [Resources & Reference](#resources--reference)
+<!-- OUTLINE END -->
 ---
 <!-- TITLE START -->
 # 01 HTML, CSS, and Git: Code Refactor
@@ -21,17 +30,6 @@
 
 > I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference.
 
----
-<!-- INDEX START -->
-## Outline
-
-- [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
-  - [About](#about)
-  - [Outline](#outline)
-  - [The Assignment](#the-assignment)
-  - [Mock-Up](#mock-up)
-  - [Resources & Reference](#resources--reference)
-<!-- INDEX END -->
 
 ---
 <!-- ASSIGNMENT START -->
@@ -39,7 +37,7 @@
 
 **User Story | AS A marketing agency**
 
-> - :white_check_mark: I WANT a codebase that follows accessibility standards :point_righht: SO THAT our own site is optimized for search engines
+> - :white_check_mark: I WANT a codebase that follows accessibility standards :point_right: SO THAT our own site is optimized for search engines
 
 **Acceptance Criteria | GIVEN a webpage meets accessibility standards**
 

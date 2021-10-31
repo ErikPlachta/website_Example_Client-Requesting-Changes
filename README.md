@@ -13,7 +13,6 @@
 - [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
   - [About](#about)
   - [The Assignment](#the-assignment)
-  - [Mock-Up](#mock-up)
   - [Resources & Reference](#resources--reference)
 <!-- OUTLINE END -->
 ---
@@ -24,16 +23,18 @@
 <!-- ABOUT START -->
 ## About
 
-> This is [Erik Plachta](https://www.github.com/erikplachta)'s submission for my first Coding Assignment **Challenge 1: Code Refactor**. All content has been reviewed and updated.
+This repo is a homework submission for the UNC Coding Bootcamp, **Challenge 1: Code Refactor**.
 
-> My updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/).
+- My updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/).
+- I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference.
 
-> I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference.
-
-
+[(Back to Top)](#01-html-css-and-git-code-refactor)
+<!-- ABOUT END -->
 ---
 <!-- ASSIGNMENT START -->
 ## The Assignment
+
+Below are the requested changes the *client* made.
 
 **User Story | AS A marketing agency**
 
@@ -47,20 +48,11 @@
 > - :white_check_mark: WHEN I view the heading attributes :point_right: THEN they fall in sequential order
 > - :white_check_mark: WHEN I view the title element :point_right: THEN I find a concise, descriptive title
 
-[(Back to Top)](#01-html-css-and-git-code-refactor)
-<!-- ASSIGNMENT END -->
-
----
-<!-- MOCKUP START -->
-## Mock-Up
-
-> Here is an image of the mock-up website for context.
-
+Here is an image of the mock-up website for context.
 ![Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)
-
-<!-- MOCKUP END -->
+<!-- ASSIGNMENT END -->
 
 ---
 <!-- RESOURCES & REFERENCE -->

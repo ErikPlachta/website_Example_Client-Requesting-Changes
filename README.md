@@ -1,71 +1,55 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-[Erik Plachta](https://github.com/ErikPlachta)'s first challenge submission.
+> [Erik Plachta](https://github.com/ErikPlachta)'s submission for **1. HTML CSS Git Challenge: Code Refactor**.
 
-## Requested Work
+[Published here](https://erikplachta.github.io/C01/)
 
-AS A marketing agency:
+---
+## Index
 
-- I WANT a codebase that follows accessibility standards
-- SO THAT our site is optimized for search engines
+- [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
+  - [Index](#index)
+  - [Resources](#resources)
+  - [The Assignment](#the-assignment)
+    - [User Story](#user-story)
+    - [Acceptance Criteria](#acceptance-criteria)
+    - [Mock-Up](#mock-up)
 
-## Acceptance Criteria
+---
 
-GIVEN a webpage that meets accessibility standards:
+## Resources
 
-WHEN I view the source code
-THEN I find semantic HTML elements
+> Links to the source code.
 
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+- [index.html](index.html)
+- [style.css](./assets/css/style.css)
 
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
+---
+## The Assignment
 
-WHEN I view the heading attributes
-THEN I find that they fall in sequential order
+Using the source code provided by @[Xandromus](https://github.com/Xandromus) on the repo [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram), follow the User Story and Acceptance Criteria.
 
-WHEN I view the title element
-THEN I find a concise, descriptive title
+### User Story
 
-## Change Log
+```text
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
-> High-level breakdown of what was changed
+### Acceptance Criteria
 
-### HTML
+:white_check_mark: GIVEN a webpage meets accessibility standards
+:white_check_mark: WHEN I view the source code :point_right: THEN I find semantic HTML elements
+:white_check_mark: WHEN I view the structure of the HTML elements :point_right: THEN I find that the elements  follow a logical structure independent of styling and positioning
+:white_check_mark: WHEN I view the image elements :point_right: THEN I find accessible alt attributes
+:white_check_mark: WHEN I view the heading attributes :point_right: THEN they fall in sequential order
+:white_check_mark: WHEN I view the title element :point_right: THEN I find a concise, descriptive title
 
-- Overall
-  - Added commentes based on Sections with START and END
-  - Removed extra returns
-- In the Header
-  - Updated title from 'website' to 'Horiseon'
-- In the Body
-  - Within Header
-    - Removed class name from header
-    - Converted div to header
-    - Converted div to nav
-  - Within Content
-    - Changed div to section
-    - Changed section child divs to article
-    - Added ALT to images
-    - Added ID to DIV 'search-engine-optimization' to allow navigation to go to section
-  - Within Benifits
-    - Changed div to section
-    - Changed section child div to article
-    - Added ALT to images
-    - IMG for benefit-cost element shortend to close within same opening decleration
-- Within footer
-  - Changed div to footer
-  - Removed class
+[(Back to Top)](#01-html-css-and-git-code-refactor)
 
-### CSS
+### Mock-Up
 
-- Overal
-  - Organized CSS based on order within HTML and by associated element
-- For header
-  - Changed header class reference to element
-  - Changed div to nav
-- For benefit & content
-  - Merged class and element styling
-- For footer
-  - changed class reference to element
+![Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
+
+[(Back to Top)](#01-html-css-and-git-code-refactor)

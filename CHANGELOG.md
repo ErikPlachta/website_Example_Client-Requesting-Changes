@@ -6,18 +6,18 @@
 
 ## 10/31/21 #EP | Final review of everything. Made some minor changes during the quality review.
 
-### README
+### ./README.md
 
 - Built final draft
 - Organized and simplified
 - Fixed grammer errors and general typos
 
-### CHANGELOG
+### ./CHANGELOG.md
 
 - Final quality review for spelling 
 - Added final updates and changes from today
 
-### HTML
+### ./index.html
 
 - For content section
   - Removed Class names that mirror'd IDs
@@ -28,7 +28,7 @@
 - For FOOTER
   - Removed CLASS name for FOOTER
 
-### CSS
+### ./assets/css/style.css
 
 - For SECTION > benifits
   - Updated H3s to H2 to fit mirror HTML
@@ -36,17 +36,17 @@
 ---
 ## 10/30/21 #EP | Did my first review of the code. There is some more work to do, but overall things are at a good place. Everything needs final review and peer review.
 
-### README
+### ./README.md
 
 - Built and framed in concept
 - Added relevant content and assignement requirements
 - Added my personal header information including social links
 
-### CHANGELOG
+### ./CHANGELOG.md
 
 - Uploaded notes and framed in concept
 
-### HTML
+### ./index.html
 
 - Overall
   - Added commentes based on Sections with START and END
@@ -73,9 +73,9 @@
 - Within FOOTER
   - Changed DIV to FOOTER
 
-### CSS
+### ./assets/css/style.
 
-- Overal
+- Overall
   - Organized CSS to be more in alignment with HTML order
 - For universal element changes, I moved them to the top
 - In BODY

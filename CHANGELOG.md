@@ -12,6 +12,11 @@
 - Organized and simplified
 - Fixed grammer errors and general typos
 
+### CHANGELOG
+
+- Final quality review for spelling 
+- Added final updates and changes from today
+
 ### HTML
 
 - For content section
@@ -20,55 +25,64 @@
   - Updated H3s to H2 to fit proper sequential order
   - Removed Class names that mirror'd IDs
   - Changed unique Class to IDs
-- FOr footer
-  - Removed class
+- For FOOTER
+  - Removed CLASS name for FOOTER
 
 ### CSS
 
-- For benefit section
+- For SECTION > benifits
   - Updated H3s to H2 to fit mirror HTML
 
 ---
-## 10/30/21 #EP | Did my first review of the code. There is some more work to do, but overall things are at a good place.
+## 10/30/21 #EP | Did my first review of the code. There is some more work to do, but overall things are at a good place. Everything needs final review and peer review.
 
 ### README
 
-- Built and framed in concept. Needs final review
+- Built and framed in concept
+- Added relevant content and assignement requirements
+- Added my personal header information including social links
+
+### CHANGELOG
+
+- Uploaded notes and framed in concept
 
 ### HTML
 
 - Overall
   - Added commentes based on Sections with START and END
-  - Removed extra returns
-  - Converted div's to semantic element types
-- In the head
-  - Updated title from 'website' to 'Horiseon'
-- In the Body
-  - Within header section
-    - Removed class name from header
-    - Converted div to header
-    - Converted div to nav
-  - Within content section
-    - Changed div to section
-    - Changed section child divs to articles
+  - Removed extra line breaks
+  - Converted DIV's to semantic element types
+- In the HEAD > TITLE
+  - Updated TITLE from 'website' to 'Horiseon'
+- In BODY
+  - Within SECTION > HEADER
+    - Converted DIV to HEADER
+    - Removed CLASS from HEADER
+    - Changed DIV to HEADER
+    - Changed DIV to NAV
+  - Within SECTION > content
+    - Converted DIV to SECTION
+    - Converted SECTION child DIVs to ARTICLEs
     - Added ALT to images
-    - Added ID to DIV 'search-engine-optimization' to allow navigation to go to section
-  - Within benifits section
-    - Changed div to section
-    - Changed section child div to articles
+    - Added ID to DIV 'search-engine-optimization' to fix navigation
+  - Within SECTION > benifits
+    - Converted DIV to SECTION
+    - Changed SECTION child DIV to ARTICLEs
     - Added ALT to images
-    - IMG for benefit-cost element shortend to close within same opening decleration
-- Within footer
-  - Changed div to footer
+    - Within ARTICLE > benefit-cost, I removed `</img>` and updated statement with self-closing ` />`
+- Within FOOTER
+  - Changed DIV to FOOTER
 
 ### CSS
 
 - Overal
-  - Organized CSS based on order within HTML and by associated element
-- For header
-  - Changed header class reference to element
-  - Changed div to nav
-- For benefit & content
-  - Merged class and element styling
-- For footer
-  - changed class reference to element
+  - Organized CSS to be more in alignment with HTML order
+- For universal element changes, I moved them to the top
+- In BODY
+  - For HEADER
+    - Changed header class reference to element
+    - Changed DIV to NAV
+  - For SECTION > benefits & content
+    - Merged CLASS and related element styling
+  - For FOOTER
+    - Changed CLASS reference to element

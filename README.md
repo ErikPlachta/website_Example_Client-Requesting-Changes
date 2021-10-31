@@ -25,8 +25,8 @@
 
 This repo is a homework submission for the UNC Coding Bootcamp, **Challenge 1: Code Refactor**.
 
-- My updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/).
-- I've also included the [Change Log](./CHANGELOG.md) that I created as I was making changes for easy reference.
+- The updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/). ( *AKA link to deployed application* )
+- I've also included a [Change Log](./CHANGELOG.md). ( *I documented changes as I made them.* )
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)
 <!-- ABOUT END -->
@@ -48,8 +48,8 @@ Below are the requested changes the *client* made.
 > - :white_check_mark: WHEN I view the heading attributes :point_right: THEN they fall in sequential order
 > - :white_check_mark: WHEN I view the title element :point_right: THEN I find a concise, descriptive title
 
-Here is an image of the mock-up website for context.
-![Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
+**Here is an image of the mock-up website for context.**
+> ![Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)
 <!-- ASSIGNMENT END -->

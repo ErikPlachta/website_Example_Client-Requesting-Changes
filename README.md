@@ -1,15 +1,17 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][https://github.com/ErikPlachta/C01/issues]
+
 # 01 HTML, CSS, and Git: Code Refactor
 
-> [Erik Plachta](https://github.com/ErikPlachta)'s submission for **1. HTML CSS Git Challenge: Code Refactor**.
-
-[Published here](https://erikplachta.github.io/C01/)
-
----
 ## Index
 
 - [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
   - [Index](#index)
-  - [Resources](#resources)
+  - [About](#about)
+    - [This is my submission for **1. HTML CSS Git Challenge: Code Refactor**.](#this-is-my-submission-for-1-html-css-git-challenge-code-refactor)
+  - [Source Code](#source-code)
+    - [Updated](#updated)
+    - [Originals](#originals)
   - [The Assignment](#the-assignment)
     - [User Story](#user-story)
       - [AS A marketing agency](#as-a-marketing-agency)
@@ -18,13 +20,25 @@
     - [Mock-Up](#mock-up)
 
 ---
+## About 
 
-## Resources
+### This is my submission for **1. HTML CSS Git Challenge: Code Refactor**.
 
-> Links to the source code.
 
-- [index.html](index.html)
-- [style.css](./assets/css/style.css)
+[Erik Plachta](https://github.com/ErikPlachta) |
+>  ![Profile views](https://gpvc.arturio.dev/erikplachta) <img src="https://img.shields.io/github/followers/erikplachta?label=Follow" style=" float:left, margin-right:10px" />
+
+
+[Published here](https://erikplachta.github.io/C01/)
+## Source Code
+
+### Updated
+  - [index.html](index.html)
+  - [assets/css/style.css](./assets/css/style.css)
+
+### Originals
+  - [originals/index.html](./originals/index.html)
+  - [originals/assets/css/style.css](./assets/css/style.css)
 
 ---
 ## The Assignment

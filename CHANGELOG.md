@@ -73,7 +73,7 @@
 - Within FOOTER
   - Changed DIV to FOOTER
 
-### ./assets/css/style.
+### ./assets/css/style.css
 
 - Overall
   - Organized CSS to be more in alignment with HTML order

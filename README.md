@@ -1,5 +1,5 @@
 <!-- HEADER START -->
-[![Github](https://img.shields.io/badge/-@erikplachta-000?style=flat&logo=Github&logoColor=white)](https://github.com/ErikPlachta) ![Profile Views](https://gpvc.arturio.dev/erikplachta) <img src="https://img.shields.io/github/followers/erikplachta?label=Follow Me" style=" float:left, margin-right:10px" />
+[!Erik Plachta](https://s.gravatar.com/avatar/cde2e5381aa5e6d8d0220c46edee8f88?s=30) [![Github](https://img.shields.io/badge/-@erikplachta-000?style=flat&logo=Github&logoColor=white)](https://github.com/ErikPlachta) ![Profile Views](https://gpvc.arturio.dev/erikplachta) <img src="https://img.shields.io/github/followers/erikplachta?label=Follow Me" style=" float:left, margin-right:10px" />
 
 > [![Twitter](https://img.shields.io/badge/-@erikplachta-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erikplachta)](https://twitter.com/erikplachta)
 [![Linkedin](https://img.shields.io/badge/-linkedin.com/in/erikplachta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/erikplachta/)](https://www.linkedin.com/in/erikplachta/)

@@ -1,3 +1,6 @@
 
 ## Local file within Mac OS that can cause repo issues.
 .DS_Store
+
+## Local Storage not wanted on GitHub
+_ARCHIVE

@@ -1,8 +1,25 @@
+<!-- HEADER START -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][https://github.com/ErikPlachta/C01/issues]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
+---
+## [Erik Plachta](https://github.com/ErikPlachta)
+
+![Profile views](https://gpvc.arturio.dev/erikplachta) <img src="https://img.shields.io/github/followers/erikplachta?label=Follow" style=" float:left, margin-right:10px" />
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- HEADER END -->
+
+---
+
+<!-- HERO START -->
 # 01 HTML, CSS, and Git: Code Refactor
 
+<!-- INDEX START -->
 ## Index
 
 - [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
@@ -19,17 +36,19 @@
       - [GIVEN a webpage meets accessibility standards](#given-a-webpage-meets-accessibility-standards)
     - [Mock-Up](#mock-up)
 
+<!-- INDEX END -->
+
 ---
+
+<!-- ABOUT START -->
 ## About 
 
 ### This is my submission for **1. HTML CSS Git Challenge: Code Refactor**.
 
-
-[Erik Plachta](https://github.com/ErikPlachta) |
->  ![Profile views](https://gpvc.arturio.dev/erikplachta) <img src="https://img.shields.io/github/followers/erikplachta?label=Follow" style=" float:left, margin-right:10px" />
-
-
 [Published here](https://erikplachta.github.io/C01/)
+
+<!-- ABOUT END -->
+
 ## Source Code
 
 ### Updated
@@ -67,3 +86,20 @@ Using the source code provided by @[Xandromus](https://github.com/Xandromus) on 
 ![Mock-Up](./assets/images/01-html-css-git-homework-demo.png)
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/ErikPlachta/C01/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-url]: https://github.com/ErikPlachta/C01/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-url]: https://github.com/ErikPlachta/C01/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-url]: https://github.com/ErikPlachta/C01/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/erikplachta/
+[product-screenshot]: images/screenshot.png

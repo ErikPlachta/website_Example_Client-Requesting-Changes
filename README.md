@@ -1,5 +1,4 @@
 <!-- HEADER START -->
-
 ![Erik Plachta](https://s.gravatar.com/avatar/cde2e5381aa5e6d8d0220c46edee8f88?s=30) 
 [![Github](https://img.shields.io/badge/-@erikplachta-000?style=flat&logo=Github&logoColor=white)](https://github.com/ErikPlachta)
 ![Profile Views](https://gpvc.arturio.dev/erikplachta) <img src="https://img.shields.io/github/followers/erikplachta?label=Follow Me" style=" float:left, margin-right:10px" /> 
@@ -11,48 +10,27 @@
 <!-- HEADER END -->
 
 ---
-<!-- OUTLINE START -->
-## Outline
-
-- [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
-  - [i. Submission](#i-submission)
-  - [ii. Contributors](#ii-contributors)
-  - [iii. The Assignment](#iii-the-assignment)
-  - [iv. Resources & Reference](#iv-resources--reference)
-<!-- OUTLINE END -->
----
 <!-- TITLE START -->
 # 01 HTML, CSS, and Git: Code Refactor
+
+> This is an assignment submission for the UNC Bootcamp Challenge 01. It was started on 10/30/2021 and then submitted on 10/31/2021.
 <!-- TITLE END -->
----
-<!-- SUBMISSION START -->
-## [i. Submission](#i-submission)
 
-This repo is a homework submission for the UNC Coding Bootcamp, **Challenge 1: Code Refactor**.
+<!-- END START -->
+## Index
 
-- The updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/), *AKA the deployed application*.
-- I've also included a [Change Log](./CHANGELOG.md).
-
-**Started:**  10/30/2021
-**Completed:** 10/31/2021
-
-[(Back to Top)](#01-html-css-and-git-code-refactor)
-<!-- SUMMARY & SUBMISSION END -->
-
----
-<!-- CONTRIBUTORS START -->
-## [ii. Contributors](#ii-contributors)
-- [@Erik Plachta](https://github.com/ErikPlachta): Made changes to source based on Boot Camp assignment.
-- [@Xandromus](https://github.com/Xandromus): Provided original source code.
-
-[(Back to Top)](#01-html-css-and-git-code-refactor)
-<!-- CONTRIBUTORS END -->
+- [01 HTML, CSS, and Git: Code Refactor](#01-html-css-and-git-code-refactor)
+  - [i. Assignment](#i-assignment)
+  - [ii. Submission](#ii-submission)
+  - [iii. Contributors](#iii-contributors)
+  
+<!-- INDEX END -->
 
 ---
 <!-- ASSIGNMENT START -->
-## [iii. The Assignment](#iii-the-assignment)
+## i. Assignment
 
-Below are the requested changes the *client* made.
+> Below are the requested changes the *client* made along with an image of the provided mock-up.
 
 **User Story | AS A marketing agency**
 
@@ -73,10 +51,23 @@ Below are the requested changes the *client* made.
 <!-- ASSIGNMENT END -->
 
 ---
-<!-- RESOURCES & REFERENCE -->
-## [iv. Resources & Reference](#iv-resources--reference)
+<!-- SUBMISSION START -->
+## ii. Submission
 
-The original content was provided by [@Xandromus](https://github.com/Xandromus) on the repo [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram).
-> I've saved and included the original content within the folder originals in the root of this repo for easy awareness and to ensure it's accuracy to my work.
+> Below are links to the published website and my changelog regarding the UNC Coding Bootcamp assignment [Challenge 1: Code Refactor](https://courses.bootcampspot.com/courses/959/assignments/18494?module_item_id=324251).
+
+- The updated code has been [published as a GitHub website](https://erikplachta.github.io/C01/), *AKA the deployed application*.
+- I've also included a [Change Log](./CHANGELOG.md).
 
 [(Back to Top)](#01-html-css-and-git-code-refactor)
+<!-- SUBMISSION END -->
+
+---
+<!-- CONTRIBUTORS START -->
+## iii. Contributors
+[@Erik Plachta](https://github.com/ErikPlachta): Made changes to source based on Boot Camp assignment.
+
+[@Xandromus](https://github.com/Xandromus): Provided original source code in the repo [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram). I've saved and included the original content within the folder originals in the root of this repo for easy awareness and to ensure it's accuracy to my work.
+
+[(Back to Top)](#01-html-css-and-git-code-refactor)
+<!-- CONTRIBUTORS END -->
